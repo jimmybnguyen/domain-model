@@ -1,8 +1,9 @@
 //
-//  main.swift
+//  main
 //  SimpleDomainModel
 //
-//  Created by Ted Neward on 4/6/16.
+//  Created by Jimmy Nguyen on 10/21/17.
+//  Recieved assistance from Kito Pham
 //  Copyright © 2016 Ted Neward. All rights reserved.
 //
 

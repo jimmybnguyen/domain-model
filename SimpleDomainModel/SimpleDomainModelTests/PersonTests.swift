@@ -1,9 +1,8 @@
 //
-//  PersonTests.swift
+//  JobTests.swift
 //  SimpleDomainModel
 //
-//  Created by Jimmy Nguyen on 10/21/17.
-//  Recieved assistance from Kito Pham
+//  Created by Ted Neward on 4/6/16.
 //  Copyright © 2016 Ted Neward. All rights reserved.
 //
 
